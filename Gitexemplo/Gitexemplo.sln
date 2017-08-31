@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Gitexemplo", "Gitexemplo\Gitexemplo.shproj", "{6399E4A8-EF04-4315-8024-18DF5D51D761}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Gitexemplo\Gitexemplo.projitems*{6399e4a8-ef04-4315-8024-18df5d51d761}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E2ACA83-F089-4875-BD34-5186A8EDA54B}
+	EndGlobalSection
+EndGlobal
